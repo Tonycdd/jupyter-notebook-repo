@@ -12,10 +12,17 @@ This repository contains a Jupyter Notebook that demonstrates various data analy
    ```bash
    git clone https://github.com/username/jupyter-notebook-repo.git
    
-   Open the Notebook:
+-   Open the Notebook:
 
 You can open the notebook in Jupyter locally after cloning the repository.
 If you prefer to use Google Colab, you can upload the .ipynb file there and run it in the cloud.
 View Online: You can view the notebook directly on GitHub, or use Nbviewer for a cleaner rendering
 
 https://nbviewer.org/
+
+## Requirements
+**Python 3.x**
+
+**Jupyter Notebook**
+
+**Required libraries are listed in the notebook (you can install them with pip install -r requirements.txt if provided).**
