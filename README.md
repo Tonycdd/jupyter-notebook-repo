@@ -17,3 +17,5 @@ This repository contains a Jupyter Notebook that demonstrates various data analy
 You can open the notebook in Jupyter locally after cloning the repository.
 If you prefer to use Google Colab, you can upload the .ipynb file there and run it in the cloud.
 View Online: You can view the notebook directly on GitHub, or use Nbviewer for a cleaner rendering
+
+https://nbviewer.org/
