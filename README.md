@@ -4,10 +4,10 @@ This repository contains a Jupyter Notebook that demonstrates various data analy
 
 ## Contents
 
- `VectorInitialise.ipynb` - this contains a graph and a simple way to initialise vectors in Jupyter notebooks
+ `Vectors` - this contains a graph and a simple way to initialise vectors in Jupyter notebooks
  
- `SomeVectorOperationsAndGraphics.ipynb` - this file contains the base operations with vectors and different graphs - sum, difference of two vectors,
- scalar multiplication, dot product and etc.
+ `Matrices` - this file contains the base operations with matrices - sum of elements, diagonal, trace function, dot product, interverse matrice, transpose,
+ function matmul, flatten matrices and etc.
  
 
 ## How to Use
